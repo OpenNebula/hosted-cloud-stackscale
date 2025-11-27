@@ -4,4 +4,4 @@
 # Deploying OpenNebula as a Hosted Cloud on Stackscale
 
 Stackscale performs all the automations and OpenNebula installation. 
-**TBA: link to the user guide published by Stackscale**
+Request the service in this link: https://www.stackscale.com/es/soluciones/opennebula/
